@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "Teste1",
+        "Preco": 2.3,
+        "0": {
+            "Cor": "Preto",
+            "Tamanho": "M",
+            "Kit": 1,
+            "Quantidade": 5
+        },
+        "1": {
+            "Cor": "Preto",
+            "Tamanho": "M",
+            "Kit": 1,
+            "Quantidade": 5
+        }
+    },
+    {
+        "Name": "Teste2",
+        "Preco": 2.9,
+        "0": {
+            "Cor": "Branco",
+            "Tamanho": "M",
+            "Kit": 1,
+            "Quantidade": 5
+        }
+    }
+]
